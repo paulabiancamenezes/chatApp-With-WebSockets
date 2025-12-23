@@ -2,8 +2,6 @@
 
 Este projeto é uma aplicação de **chat em tempo real** desenvolvida com **Node.js** e **Socket.IO**, permitindo a comunicação instantânea entre múltiplos usuários através de WebSockets.
 
-Pense nele como um grupo no WhatsApp, só que sem figurinhas (ainda 😅) e com você controlando tudo por baixo do capô.
-
 ---
 
 ## 🚀 Funcionalidades
