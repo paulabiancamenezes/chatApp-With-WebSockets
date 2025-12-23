@@ -80,6 +80,3 @@ http://localhost:3000
 * Salas privadas ou públicas
 * Indicação de “usuário digitando...”
 * Deploy em produção
-
-
-Se curtiu o projeto, deixa uma ⭐ no repositório — não dói e ainda deixa o dev
